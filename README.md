@@ -1,7 +1,3 @@
-Claro! Vou compilar a documentação em um formato adequado para o GitHub. Vamos lá:
-
----
-
 # GB Tech
 
 ![Logo](img/logo2.png)
@@ -60,7 +56,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
-Espero que essa documentação esteja adequada para o GitHub! Se precisar de mais alguma coisa, estou à disposição.
