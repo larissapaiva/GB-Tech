@@ -4,26 +4,7 @@
 
 ## Sobre o Projeto
 
-GB Tech é um projeto web que representa uma empresa fictícia de assistência técnica. Este projeto foi desenvolvido com HTML, CSS e JavaScript, utilizando o framework Flask para a construção do servidor e APIs RESTful.
-
-## Estrutura do Projeto
-
-```
-GB-Tech/
-├── img/
-│   ├── 2logo.png
-│   ├── capa.png
-│   ├── logo.png
-│   ├── logo2.png
-│   ├── people-in-the-form-repair-service-workers-do-screen-diagnostics-and-replacement-3d-isometric-vector-illustration-design.jpg
-│   ├── shape.png
-│   └── tiny-tecnicos-consertando-smartphone_74855-16966.jpg
-├── .gitattributes
-├── README.md
-├── app.js
-├── index.html
-└── style.css
-```
+GB Tech é um projeto web que representa uma empresa fictícia de assistência técnica. Este projeto foi desenvolvido com HTML, CSS e JavaScript.
 
 ### Descrição dos Arquivos e Pastas
 
@@ -52,7 +33,3 @@ GB-Tech/
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests no repositório para sugestões de melhorias ou correções de bugs.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
